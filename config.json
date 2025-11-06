@@ -1,0 +1,5 @@
+{
+  "missing_value_strategy": "auto",
+  "outlier_threshold": 1.5,
+  "output_folder": "outputs"
+}

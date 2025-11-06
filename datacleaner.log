@@ -1,0 +1,28 @@
+2025-11-06 11:44:13,070 - INFO - Loaded dataset: data/raw_data.csv
+2025-11-06 11:44:13,070 - INFO - Removed 0 duplicate rows.
+2025-11-06 11:44:13,070 - INFO - Missing values handled successfully.
+2025-11-06 11:44:13,084 - INFO - Summary report saved at outputs\summary_report_20251106_1144.txt
+2025-11-06 11:44:13,084 - INFO - Cleaned data saved at outputs\cleaned_data_20251106_1144.csv
+2025-11-06 11:47:37,634 - INFO - Loaded dataset: data/raw_data.csv
+2025-11-06 11:47:37,634 - INFO - Removed 0 duplicate rows.
+2025-11-06 11:47:37,634 - INFO - Missing values handled successfully.
+2025-11-06 11:47:37,648 - INFO - Summary report saved at outputs\summary_raw_data.txt
+2025-11-06 11:47:37,657 - INFO - Cleaned data saved at outputs\cleaned_data_raw_data.csv
+2025-11-06 11:52:01,471 - INFO - Loaded dataset: data/raw_data.csv
+2025-11-06 11:52:01,471 - INFO - Removed 0 duplicate rows.
+2025-11-06 11:52:01,471 - INFO - Missing values handled successfully.
+2025-11-06 11:52:01,471 - INFO - Summary report saved at outputs\summary_raw_data.txt
+2025-11-06 11:52:01,471 - INFO - Cleaned data saved at outputs\cleaned_data_raw_data.csv
+2025-11-06 11:52:53,928 - INFO - Loaded dataset: data/order_sales.csv
+2025-11-06 11:52:53,930 - INFO - Removed 0 duplicate rows.
+2025-11-06 11:52:53,931 - INFO - Missing values handled successfully.
+2025-11-06 11:52:53,931 - INFO - Converted 'order_id' to datetime.
+2025-11-06 11:52:53,931 - INFO - Converted 'order_date' to datetime.
+2025-11-06 11:52:53,931 - INFO - Converted 'amount' to datetime.
+2025-11-06 11:52:53,951 - INFO - Summary report saved at outputs\summary_order_sales.txt
+2025-11-06 11:52:53,952 - INFO - Cleaned data saved at outputs\cleaned_data_order_sales.csv
+2025-11-06 11:56:34,748 - INFO - Loaded dataset: data/raw_data.csv
+2025-11-06 11:56:34,749 - INFO - Removed 0 duplicate rows.
+2025-11-06 11:56:34,749 - INFO - Missing values handled successfully.
+2025-11-06 11:56:34,749 - INFO - Summary report saved at outputs\summary_raw_data.txt
+2025-11-06 11:56:34,749 - INFO - Cleaned data saved at outputs\cleaned_data_raw_data.csv
